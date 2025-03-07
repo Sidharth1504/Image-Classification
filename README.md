@@ -33,6 +33,7 @@ tensorflow.keras.datasets.fashion_mnist.load_data()
 
 ## Project Structure
 
+```bash
 IMAGE-CLASSIFICATION/
 ├── dataset/
 │   ├── data.csv
@@ -41,6 +42,7 @@ IMAGE-CLASSIFICATION/
 ├── fashion_mnist_CNN_model.h5
 ├── model.ipynb
 └── README.md
+```
 
 ## Features
 
